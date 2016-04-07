@@ -1,0 +1,10 @@
+Package: ImproveISCAM
+Type: Package
+Title: Investigating Statistical Concepts, Applications, and Methods.
+Version: 0.1.0
+Authors: c(person("Dong Won", "Jung", email = "jungd@appstate.edu", role = c("aut", "cre")),
+             person("Alan", "Arnholt", email = "arnholtat@appstate.edu", role = c("aut")))
+Description: This package will help you solve some problems from ISCAM book.
+Depends: R(>= 3.2.0)
+License: GPL-2
+LazyData: TRUE
