@@ -14,8 +14,7 @@
 #'InNorm(0.95, direction="outside")
 #'InNorm(0.88, direction="between")
 
-InNorm<-function (prob1, mean = 0, sd = 1, direction)
-{
+InNorm<-function (prob1, mean = 0, sd = 1, direction){
   Description = "InNorm(prob1, mean=0, sd=1, direction) \n This function calculates the normal quantile of a specified probability. \n Input the desired probability and the parameters of the normal distribution or use standard normal. \n Specify whether you want this area to be \"above\", \"below\", or \"outside\" or \"between\". \n"
   if (as.character(prob1) == "?")
     stop(Description)

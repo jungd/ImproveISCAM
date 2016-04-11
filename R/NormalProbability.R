@@ -16,8 +16,7 @@
 #'normprob(-2, direction="between",xval2=2)
 #'normprob(-2, direction="outside",xval2=2)
 
-normprob <- function (xval, mean = 0, sd = 1, direction, label = NULL, xval2 = NULL)
-{
+normprob <- function (xval, mean = 0, sd = 1, direction, label = NULL, xval2 = NULL){
   Description = "normprob(xval, mean, sd, direction, label, xval2) \n This function calculates tail probability for the normal distribution.  \n Direction is a String for finding the probability above (\"above\") or below (\"below\") the inputted value  \n If \"outside\" or \"between \" are specified, a second observation needs to be given at the end. \n  It is highly recommended that you indicate a label for the horizontal axis, with the quotation marks (e.g., \"sample proportions\") "
   if (as.character(xval) == "?")
     stop(Description)
