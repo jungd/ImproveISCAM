@@ -1,11 +1,11 @@
 #' Normal Probability
 #'
-#' @param xval
-#' @param mean
-#' @param sd
+#' @param xval this function calculates tail probability for the normal distribution.
+#' @param mean mean
+#' @param sd sd
 #' @param direction is a string for finding the probability above,below, between, or outside
 #' @param label the horizontal axis
-#' @param xval2
+#' @param xval2 This function calculates tail probability for the normal distribution.
 #'
 #' @return Normal Probability
 #' @export

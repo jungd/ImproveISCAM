@@ -1,8 +1,8 @@
 #' Inverse normal Probability
 #'
-#' @param prob1
-#' @param mean
-#' @param sd
+#' @param prob1 Calculates the normal quantile of a specified probability
+#' @param mean mean = 0
+#' @param sd sd = 1
 #' @param direction above,below, outside, or between
 #'
 #' @return Inverse Normal Probability

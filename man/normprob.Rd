@@ -7,11 +7,17 @@
 normprob(xval, mean = 0, sd = 1, direction, label = NULL, xval2 = NULL)
 }
 \arguments{
+\item{xval}{this function calculates tail probability for the normal distribution.}
+
+\item{mean}{mean}
+
+\item{sd}{sd}
+
 \item{direction}{is a string for finding the probability above,below, between, or outside}
 
 \item{label}{the horizontal axis}
 
-\item{xval2}{}
+\item{xval2}{This function calculates tail probability for the normal distribution.}
 }
 \value{
 Normal Probability
