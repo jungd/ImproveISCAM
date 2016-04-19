@@ -10,8 +10,8 @@ Improve functions for ISCAM Book.
 \details{
 Probability Desired.
 }
-\section{Indy}{
- This is not working but you will make it work.
+\section{Future students}{
+ help you better use for ISCAM R code.
 }
 \keyword{package}
 

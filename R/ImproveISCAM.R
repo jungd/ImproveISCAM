@@ -3,6 +3,6 @@
 #' @docType package
 #' @name ImproveISCAM-package
 #' @title The most incredible editable ImproveISCAM package
-#' @section Indy: This is not working but you will make it work.
+#' @section Future students: help you better use for ISCAM R code.
 #' @keywords package
 NULL
