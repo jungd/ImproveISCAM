@@ -10,8 +10,8 @@ Improve functions for ISCAM Book.
 \details{
 Probability Desired.
 }
-\section{For future student will use little better code for Dr.Arnholt class.}{
-
+\section{Indy}{
+ This is not working but you will make it work.
 }
 \keyword{package}
 

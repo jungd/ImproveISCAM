@@ -3,6 +3,6 @@
 #' @docType package
 #' @name ImproveISCAM-package
 #' @title The most incredible editable ImproveISCAM package
-#' @section For future student will use little better code for Dr.Arnholt class.
+#' @section Indy: This is not working but you will make it work.
 #' @keywords package
 NULL

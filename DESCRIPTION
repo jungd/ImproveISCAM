@@ -1,6 +1,6 @@
 Package: ImproveISCAM
 Type: Package
-Title: Investigating Statistical Concepts, Applications, and Methods.
+Title: Investigating Statistical Concepts, Applications, and Methods
 Version: 0.1.0
 Authors@R: c(person("Dong Won", "Jung", email = "jungd@appstate.edu", role =
     c("aut", "cre")), person("Alan", "Arnholt", email = "arnholtat@appstate.edu",
