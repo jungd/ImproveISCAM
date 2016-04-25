@@ -1,4 +1,4 @@
-ImprovISCAM
+ImproveISCAM
 ========
 
 ### Version 0.01
